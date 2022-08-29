@@ -50,9 +50,8 @@ p{
 }
 
 img {
-    height: 450px;
-    max-width: 100%;
-    width: auto\9;
+    width: 560px;
+    height: auto;
 }
 
 .demoVideo{
