@@ -55,6 +55,13 @@ img {
     width: auto\9;
 }
 
+.demoVideo{
+    height: 560px;
+    max-width: 100%;
+    width: auto\9;
+}
+    
+
 .Intro{
     background-color: white;
     width: 100%;
