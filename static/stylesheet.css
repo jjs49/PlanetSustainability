@@ -333,9 +333,6 @@ body {
     margin:10%;
 }
 
-.canvas{
-
-}
 
 .profilePic{
     width:300px;
@@ -380,6 +377,11 @@ a{
 
 .carousel-item{
     max-width:80%;
+}
+
+footer.img{
+    height: 15px;
+    width:15px;
 }
 
 
