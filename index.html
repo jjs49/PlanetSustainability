@@ -45,6 +45,22 @@
     }
 </script>
 
+    	<style>
+		/* optional css fade in animation */
+		iframe {
+			transition: opacity 500ms ease-in-out;
+			transition-delay: 250ms;
+		}
+	</style>
+
+	<!-- target element -->
+    <div data-vbg="https://www.youtube.com/watch?v=wUFPLqTvuwE"></div>
+
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('[data-vbg]').youtube_background();
+        });
+    </script>
 
 <video autoplay muted loop id = "homePageClip">
     <source src="https://drive.google.com/file/d/1x_FpFi6y1kEss1aKfb0Vi2SCuIcZDaRd/view?usp=sharing" type="video/mp4">
