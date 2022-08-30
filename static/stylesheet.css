@@ -49,6 +49,14 @@ p{
     width: 100%;
 }
 
+.homePageClip {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
 img {
     width: 560px;
     height: auto;
