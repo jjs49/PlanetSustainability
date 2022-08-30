@@ -44,9 +44,15 @@ p{
 }
 
 .homePageClip{
-    position: relative;
-    height:80%;
-    width: 100%;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
 }
 
 img {
@@ -131,6 +137,9 @@ img {
   padding: 20px;
 }
 
+.titlePage h4{
+    color white;
+}
 .homePage p{
     color: white;
 }
