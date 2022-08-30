@@ -127,7 +127,6 @@ img {
     color: white;
 }
 
-/* Add some content at the bottom of the video/page */
 .homePage {
   position: absolute;
   top: 0;
@@ -137,7 +136,7 @@ img {
   padding: 20px;
 }
 
-.titlePage h4{
+.titlePage {
     color white;
 }
 .homePage p{
