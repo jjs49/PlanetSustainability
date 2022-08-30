@@ -379,9 +379,14 @@ a{
     max-width:80%;
 }
 
-footer.img{
+.footerCopyright{
     height: 15px;
     width:15px;
+}
+
+.demoVideo{
+    width: 640px;
+    height:320px;
 }
 
 
