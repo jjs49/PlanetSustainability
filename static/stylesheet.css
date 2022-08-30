@@ -136,9 +136,7 @@ img {
   padding: 20px;
 }
 
-.titlePage {
-    color white;
-}
+
 .homePage p{
     color: white;
 }
@@ -400,6 +398,10 @@ a{
 .demoVideo{
     width: 640px;
     height:320px;
+}
+
+.titlePage {
+    color: white;
 }
 
 
