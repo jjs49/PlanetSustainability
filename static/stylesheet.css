@@ -43,7 +43,7 @@ p{
     flex: 40%;
 }
 
-#homePageClip{
+.homePageClip{
     position: relative;
     height:80%;
     width: 100%;
